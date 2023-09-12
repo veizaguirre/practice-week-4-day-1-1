@@ -55,6 +55,7 @@ avg = float(points_game1 + points_game2)
 avgg = float(avg/2)
 print(f"the average points over the two games is: {avgg}.")
 
+
 #################### END OF PROBLEM SET ####################
 
 
